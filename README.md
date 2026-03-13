@@ -211,4 +211,4 @@ EDA analysis
 
 This project demonstrates how machine learning can transform raw clickstream data into actionable business insights.
 
-The combination of classification, regression, clustering, and interactive dashboards helps businesses better understand customer behavior and improve conversion strategies.peline structure:
+The combination of classification, regression, clustering, and interactive dashboards helps businesses better understand customer behavior and improve conversion strategies.
