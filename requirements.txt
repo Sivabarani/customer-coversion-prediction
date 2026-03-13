@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pandas
 numpy
 scikit-learn
@@ -6,4 +7,14 @@ seaborn
 mlflow
 streamlit
 joblib
+=======
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+mlflow
+streamlit
+joblib
+>>>>>>> 996f5bad9b3494f7381cabe092774f5f46f8cbb0
 xgboost
