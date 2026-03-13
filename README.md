@@ -1,25 +1,17 @@
 # Customer Conversion Analysis Using Clickstream Data
-
 ## Project Overview
-
 This project analyzes customer browsing behavior on an e-commerce website using clickstream data. The goal is to build machine learning models that help businesses understand customer engagement and improve sales.
-
 The system predicts:
-
 - Whether a customer will complete a purchase
 - The potential revenue from a customer session
 - Customer segments based on browsing behavior
-
 An interactive Streamlit application allows users to analyze both bulk datasets and individual customer sessions.
 
 ---
 
 ## Problem Statement
-
 E-commerce platforms collect large amounts of clickstream data representing customer interactions with products and webpages.
-
 This project aims to use machine learning to:
-
 - Predict purchase conversion
 - Estimate customer revenue
 - Segment customers for targeted marketing
@@ -27,7 +19,6 @@ This project aims to use machine learning to:
 ---
 
 ## Dataset
-
 Source: UCI Machine Learning Repository
 
 Dataset: Clickstream Data for Online Shopping
@@ -220,10 +211,4 @@ EDA analysis
 
 This project demonstrates how machine learning can transform raw clickstream data into actionable business insights.
 
-The combination of classification, regression, clustering, and interactive dashboards helps businesses better understand customer behavior and improve conversion strategies.
-
-
-
-
-
-Pipeline structure:
+The combination of classification, regression, clustering, and interactive dashboards helps businesses better understand customer behavior and improve conversion strategies.peline structure:
